@@ -1,0 +1,292 @@
+[
+  {
+    "id": "reflection-man",
+    "name": "Reflection Man",
+    "house": "Amouage",
+    "perfumer": "Lucas Sieuzac",
+    "concentration": "Eau de Parfum",
+    "oil_concentration": "25% (brand stated)",
+    "year": null,
+    "notes": {
+      "top": [
+        "Rosemary",
+        "Red pepper berries",
+        "Bitter orange leaves"
+      ],
+      "heart": [
+        "Neroli",
+        "Orris",
+        "Jasmine",
+        "Ylang-ylang"
+      ],
+      "base": [
+        "Vetiver",
+        "Patchouli",
+        "Sandalwood",
+        "Cedarwood"
+      ]
+    },
+    "summary": "An eau de parfum by Lucas Sieuzac. Amouage lists aromatic and floral notes over a woody base and states a 25% oil concentration.",
+    "source": "https://amouage.com/products/reflection-man-100ml",
+    "image_source": "https://amouage.com/cdn/shop/files/REFLECTION_100_ML.jpg?v=1758803038&width=1000",
+    "image_file": "reflection-man.jpg",
+    "verification_note": "Release year not confirmed on checked official page.",
+    "verified_on": "2026-09-15",
+    "source_grade": "Official house",
+    "community_rating": null,
+    "review_count": 0,
+    "media_rights": "Official product image; private prototype reference only. No reuse license verified.",
+    "editorial_context": "Amouage frames Reflection Man as a study in contrast: an aromatic, peppery opening of rosemary, red pepper berries and bitter orange leaves gives way to a powdery floral heart of neroli, orris and jasmine, before settling into a woody base of vetiver, patchouli, sandalwood and cedarwood. The house lists the eau de parfum at a 25% oil concentration, higher than many mainstream EDPs, which the brand ties to the composition's stated depth. Amouage has not published a release year on the checked page, so this record leaves that field unconfirmed rather than inferring one from resellers.",
+    "context_source": "https://amouage.com/products/reflection-man-100ml"
+  },
+  {
+    "id": "portrait-lady",
+    "name": "Portrait of a Lady",
+    "house": "Éditions de Parfums Frédéric Malle",
+    "perfumer": "Dominique Ropion",
+    "concentration": "Eau de Parfum",
+    "year": null,
+    "notes": {
+      "shared_core": [
+        "Rose",
+        "Raspberry",
+        "Patchouli",
+        "Incense"
+      ]
+    },
+    "summary": "Dominique Ropion’s eau de parfum is presented by the house as a floral chypre centered on rose. The official page lists raspberry, patchouli and incense among its notes.",
+    "source": "https://www.fredericmalle.com/product/19566/50241/parfums/portrait-of-a-lady/by-dominique-ropion",
+    "image_source": "https://www.fredericmalle.com/media/images/products/630x615/fm_sku_H4FE01_630x615_0.jpg",
+    "image_file": "portrait-lady.jpg",
+    "verification_note": "Official Description and Details contain different note pyramids. Shared core only displayed pending clarification. Release year not verified.",
+    "verified_on": "2026-09-15",
+    "source_grade": "Official house",
+    "community_rating": null,
+    "review_count": 0,
+    "media_rights": "Official product image; private prototype reference only. No reuse license verified.",
+    "editorial_context": "Frédéric Malle presents Portrait of a Lady as Dominique Ropion's take on the floral chypre, built around an intense rose accord layered with raspberry, patchouli and incense. The house's own product page is not fully consistent: its Description and Details sections list different note structures, so this record shows only the notes that appear in both rather than treating either version as more authoritative. A release year is not stated on the checked page and is left unconfirmed here rather than sourced from resellers.",
+    "context_source": "https://www.fredericmalle.com/product/19566/50241/parfums/portrait-of-a-lady/by-dominique-ropion"
+  },
+  {
+    "id": "terre-hermes",
+    "name": "Terre d’Hermès",
+    "house": "Hermès",
+    "perfumer": "Jean-Claude Ellena",
+    "concentration": "Eau de Toilette",
+    "year": 2006,
+    "notes": {
+      "brand_highlights": [
+        "Grapefruit",
+        "Cedar",
+        "Flint"
+      ]
+    },
+    "summary": "Created by Jean-Claude Ellena in 2006. Hermès describes this eau de toilette through woody and mineral notes, highlighting grapefruit, cedar and flint.",
+    "source": "https://www.hermes.com/be/en/product/terre-d-hermes-eau-de-toilette-V107748V0/",
+    "image_source": "https://assets.hermes.com/is/image/hermesproduct/terre-d-hermes-eau-de-toilette--107748V0-worn-2-0-0-800-800_g.jpg",
+    "image_file": "terre-hermes.jpg",
+    "verification_note": "Official highlights are marketing notes, not a disclosed formula or complete ingredient pyramid.",
+    "verified_on": "2026-09-15",
+    "source_grade": "Official house",
+    "community_rating": null,
+    "review_count": 0,
+    "media_rights": "Official product image; private prototype reference only. No reuse license verified.",
+    "editorial_context": "Hermès attributes Terre d'Hermès, released in 2006, to perfumer Jean-Claude Ellena and describes it through a woody, mineral vocabulary: grapefruit for brightness, cedar for structure and a 'flint' accord meant to suggest stone struck against metal. These are the house's own highlighted notes rather than a disclosed ingredient pyramid, and Hermès does not publish a complete formula on its official product page.",
+    "context_source": "https://www.hermes.com/be/en/product/terre-d-hermes-eau-de-toilette-V107748V0/"
+  },
+  {
+    "id": "carnal-flower",
+    "name": "Carnal Flower",
+    "house": "Éditions de Parfums Frédéric Malle",
+    "perfumer": "Dominique Ropion",
+    "year": 2005,
+    "concentration": "Eau de Parfum",
+    "summary": "Created by Dominique Ropion in 2005. The house’s anniversary reference highlights tuberose alongside melon, white musk and milky notes.",
+    "community_rating": null,
+    "review_count": 0,
+    "notes": {
+      "brand_highlights": [
+        "Melon",
+        "Tuberose",
+        "White musk",
+        "Milky notes"
+      ]
+    },
+    "source": "https://www.fredericmalle.com/perfume-reimagined",
+    "sources": [
+      {
+        "url": "https://www.fredericmalle.com/perfume-reimagined",
+        "label": "Official house — name, house, perfumer, year, notes"
+      },
+      {
+        "url": "https://www.fredericmalle.com/product/19566/50210/parfums/carnal-flower/by-dominique-ropion",
+        "label": "Official house — concentration"
+      }
+    ],
+    "image_file": null,
+    "image_source": null,
+    "verification_note": "Notes are selected official highlights, not a complete pyramid. No performance evaluation.",
+    "verified_on": "2026-09-19",
+    "source_grade": "Official house",
+    "media_rights": "No product image supplied.",
+    "editorial_context": "Frédéric Malle credits Carnal Flower, from 2005, to Dominique Ropion and positions it as a direct tuberose composition, paired on the house's own anniversary reference page with melon, white musk and milky notes rather than the softer, powdery treatment tuberose often receives elsewhere. The listed notes are the house's own highlighted selection, not a disclosed formula, and no independent performance or wear assessment has been added to this record.",
+    "context_source": "https://www.fredericmalle.com/perfume-reimagined"
+  },
+  {
+    "id": "guidance-edp",
+    "name": "Guidance",
+    "house": "Amouage",
+    "perfumer": "Quentin Bisch",
+    "year": 2023,
+    "concentration": "Eau de Parfum",
+    "summary": "Amouage introduced Quentin Bisch’s Guidance Eau de Parfum in 2023. The official note structure places pear, frankincense and hazelnut above floral and woody-amber notes.",
+    "community_rating": null,
+    "review_count": 0,
+    "notes": {
+      "top": [
+        "Pear",
+        "Frankincense",
+        "Hazelnut"
+      ],
+      "heart": [
+        "Saffron",
+        "Rose",
+        "Jasmine Sambac",
+        "Osmanthus"
+      ],
+      "base": [
+        "Cistus",
+        "Sandalwood",
+        "Akigalawood",
+        "Ambergris",
+        "Vanilla"
+      ]
+    },
+    "source": "https://amouage.com/en-au/products/100ml-guidance",
+    "sources": [
+      {
+        "url": "https://amouage.com/en-au/products/100ml-guidance",
+        "label": "Official house — name, house, concentration, notes"
+      },
+      {
+        "url": "https://amouage.com/en-au/pages/the-guidance-collection",
+        "label": "Official house — perfumer, year"
+      }
+    ],
+    "image_file": "guidance-edp.jpg",
+    "image_source": "https://amouage.com/cdn/shop/files/GUIDANCE_100_ML.jpg?v=1758540475&width=1946",
+    "verification_note": "This record is for Guidance Eau de Parfum, not Guidance 46. Listed notes do not establish natural ingredient content.",
+    "verified_on": "2026-09-19",
+    "source_grade": "Official house",
+    "media_rights": "Official product image; private prototype reference only. Public reuse license not verified.",
+    "editorial_context": "Amouage introduced Guidance Eau de Parfum in 2023 with Quentin Bisch as perfumer, structured around pear, frankincense and hazelnut at the top, saffron, rose, jasmine sambac and osmanthus at the heart, and cistus, sandalwood, akigalawood, ambergris and vanilla at the base. This record covers specifically the Eau de Parfum; Amouage has separately released a related Guidance 46, and the two should not be treated as the same product. The perfumer and year come from the house's Guidance collection page rather than the product page itself.",
+    "context_source": "https://amouage.com/en-au/products/100ml-guidance"
+  },
+  {
+    "id": "twilly-hermes-edp",
+    "name": "Twilly d’Hermès",
+    "house": "Hermès",
+    "perfumer": "Christine Nagel",
+    "year": 2017,
+    "concentration": "Eau de Parfum",
+    "summary": "Christine Nagel created Twilly d’Hermès in 2017. Hermès presents this eau de parfum as floral and spicy, highlighting ginger, tuberose and sandalwood.",
+    "community_rating": null,
+    "review_count": 0,
+    "notes": {
+      "brand_highlights": [
+        "Ginger",
+        "Tuberose",
+        "Sandalwood"
+      ]
+    },
+    "source": "https://www.hermes.com/us/en/product/twilly-d-hermes-eau-de-parfum-V107264V0/",
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/product/twilly-d-hermes-eau-de-parfum-V107264V0/",
+        "label": "Official house — name, house, perfumer, year, concentration, notes"
+      }
+    ],
+    "image_file": "twilly-hermes-edp.jpg",
+    "image_source": "https://assets.hermes.com/is/image/hermesproduct/twilly-d-hermes-eau-de-parfum--107264V0-worn-2-0-0-800-800_g.jpg",
+    "verification_note": "Brand highlights are not a full formula or independently tested scent description.",
+    "verified_on": "2026-09-19",
+    "source_grade": "Official house",
+    "media_rights": "Official product image; private prototype reference only. Public reuse license not verified.",
+    "editorial_context": "Hermès credits Twilly d'Hermès, launched in 2017, to perfumer Christine Nagel and describes the eau de parfum as floral and spicy, built around ginger for lift, tuberose for its floral core and sandalwood for a soft woody close. The house presents these as highlighted notes rather than a full pyramid, and no third-party or wearer testing has been layered onto the official description reproduced here.",
+    "context_source": "https://www.hermes.com/us/en/product/twilly-d-hermes-eau-de-parfum-V107264V0/"
+  },
+  {
+    "id": "sauvage-edp",
+    "name": "Sauvage Eau de Parfum",
+    "house": "Dior",
+    "perfumer": null,
+    "year": null,
+    "concentration": "Eau de Parfum",
+    "summary": "Dior’s official product FAQ describes a bergamot opening, a spicy aromatic heart and a vanilla-and-ambroxan base for Sauvage Eau de Parfum.",
+    "community_rating": null,
+    "review_count": 0,
+    "notes": {
+      "top": [
+        "Calabrian bergamot"
+      ],
+      "heart": [
+        "Sichuan pepper",
+        "Lavender",
+        "Star anise"
+      ],
+      "base": [
+        "Papua New Guinean vanilla extract",
+        "Ambroxan"
+      ]
+    },
+    "source": "https://www.dior.com/en_us/beauty/products/sauvage-eau-de-parfum-Y0785220.html",
+    "sources": [
+      {
+        "url": "https://www.dior.com/en_us/beauty/products/sauvage-eau-de-parfum-Y0785220.html",
+        "label": "Official house — name, house, concentration, notes"
+      }
+    ],
+    "image_file": null,
+    "image_source": null,
+    "verification_note": "Perfumer and release year were not verified on the checked official page and remain null. Notes follow the official FAQ; other product copy additionally highlights patchouli. Brand longevity claims were deliberately excluded because no independent testing was performed.",
+    "verified_on": "2026-09-19",
+    "source_grade": "Official house",
+    "media_rights": "No product image supplied.",
+    "editorial_context": "Dior's official product FAQ for Sauvage Eau de Parfum describes an opening of Calabrian bergamot, a spicy aromatic heart of Sichuan pepper, lavender and star anise, and a base built on Papua New Guinean vanilla extract and ambroxan. The house has not published a perfumer credit or release year on the checked page, so both remain unconfirmed rather than filled in from secondary sources. Other Dior product copy also references patchouli; brand longevity claims are deliberately excluded here since no independent wear test has been performed.",
+    "context_source": "https://www.dior.com/en_us/beauty/products/sauvage-eau-de-parfum-Y0785220.html"
+  },
+  {
+    "id": "bleu-chanel-edp",
+    "name": "BLEU DE CHANEL Eau de Parfum",
+    "house": "CHANEL",
+    "perfumer": null,
+    "year": null,
+    "concentration": "Eau de Parfum",
+    "summary": "CHANEL describes the Eau de Parfum as an aromatic-woody composition with ambery and musky notes, cedar and New Caledonian sandalwood.",
+    "community_rating": null,
+    "review_count": 0,
+    "notes": {
+      "brand_highlights": [
+        "Ambery cedar",
+        "Woody notes",
+        "Musky notes",
+        "New Caledonian sandalwood"
+      ]
+    },
+    "source": "https://www.chanel.com/gb/fragrance/p/107360/bleu-de-chanel-eau-de-parfum-spray/",
+    "sources": [
+      {
+        "url": "https://www.chanel.com/gb/fragrance/p/107360/bleu-de-chanel-eau-de-parfum-spray/",
+        "label": "Official house — name, house, concentration, notes"
+      }
+    ],
+    "image_file": null,
+    "image_source": null,
+    "verification_note": "Perfumer and release year were not verified on the checked official page and remain null. Only the house’s Composition section was used, not customer reviews or a creator attribution inferred from promotional video appearances.",
+    "verified_on": "2026-09-19",
+    "source_grade": "Official house",
+    "media_rights": "No product image supplied.",
+    "editorial_context": "Chanel describes BLEU DE CHANEL Eau de Parfum as an aromatic-woody composition, built on ambery and musky notes with cedar and New Caledonian sandalwood forming its base. The house's Composition section is the only source used for this record; broader marketing material sometimes implies a specific perfumer, but Chanel does not credit one on the checked page, so no name is listed here. A release year is likewise unconfirmed on the official page.",
+    "context_source": "https://www.chanel.com/gb/fragrance/p/107360/bleu-de-chanel-eau-de-parfum-spray/"
+  }
+]
