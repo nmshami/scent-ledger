@@ -8,7 +8,7 @@ vm.createContext(context);vm.runInContext(fs.readFileSync('web/app.js','utf8'),c
 context.raw=fs.readFileSync('web/assets/records.json','utf8');
 vm.runInContext('records=validateRecords(JSON.parse(raw));',context);
 const records=JSON.parse(context.raw);
-assert.equal(records.length,8);
+assert.equal(records.length,17);
 for(const record of records){
  assert(record.editorial_context?.length>180,'Missing useful context: '+record.id);
  assert(record.context_source?.startsWith('https://'),'Missing context source');
@@ -22,4 +22,4 @@ for(const record of records){
 }
 context.bad=JSON.stringify({...records[0],context_source:'javascript:alert(1)'});
 assert.throws(()=>vm.runInContext('validateRecords([JSON.parse(bad)])',context));
-console.log('PASS: eight editorial sections, valid source links, existing local images, truthful related-record connections and unsafe editorial URL rejection. Not a browser visual test.');
+console.log('PASS: seventeen editorial sections, valid source links, existing local images, truthful related-record connections and unsafe editorial URL rejection. Not a browser visual test.');
