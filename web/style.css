@@ -99,6 +99,10 @@ footer div:last-child{display:flex;flex-direction:column;align-items:end;gap:8px
 .image-label{position:absolute;bottom:12px;left:18px;font-size:12px;color:var(--muted);pointer-events:none}
 .card-content{padding:22px;display:flex;flex-direction:column;flex:1}
 .house{font-size:12px;letter-spacing:1.2px;text-transform:uppercase;font-weight:600;color:var(--muted);display:block}
+/* Two lines' worth of house name, so every title in a row starts on the same
+   baseline however long the house is. Released at 680px, where the grid is a
+   single column and there is nothing left to align. */
+.card .house{min-height:38px}
 .card h3{font-size:30px;margin:6px 0 9px}
 .card h3 a{text-decoration:none}
 .card a:hover h3,.card h3 a:hover{text-decoration:underline}
@@ -166,8 +170,10 @@ footer div:last-child{display:flex;flex-direction:column;align-items:end;gap:8px
 .note-row-head{display:flex;justify-content:space-between;gap:10px;align-items:center;margin-bottom:18px}
 .note-row-head h3{font:600 16px var(--sans);margin:0}
 .note-row-head span{font-size:12px;color:var(--muted)}
-/* The verification notice is the one warm surface in the design. */
-.notice{border-left:3px solid #aa833e;background:#f4f1e9;color:#635332;padding:14px 18px;font-size:14px;margin-top:24px}
+/* The verification notice is the one warm surface in the design: its ground
+   stays a literal so the callout still reads as a caution rather than as
+   another --panel. Rule and text are on the tokens. */
+.notice{border-left:3px solid var(--rust);background:#f4f1e9;color:var(--ink);padding:14px 18px;font-size:14px;margin-top:24px}
 .empty{border:1px dashed var(--line);padding:24px;border-radius:8px;background:var(--paper)}
 .empty h3{font-size:27px}
 .empty p{font-size:14px}
@@ -291,6 +297,7 @@ dialog input,dialog textarea{display:block;width:100%;margin-top:6px}
  .note-filter .note-card figcaption{font-size:14px}
  .result-count{flex-basis:100%;margin-top:7px}
  .grid{grid-template-columns:1fr}
+ .card .house{min-height:0}
  .imagebox{height:220px}
  .note-art{width:78px}
  .note-preview{max-width:330px}
