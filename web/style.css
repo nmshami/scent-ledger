@@ -10,7 +10,7 @@
    wherever a border is the only thing identifying an interactive control,
    which WCAG 1.4.11 requires to reach 3:1 against its background.
    Three literals sit outside the tokens and are marked where they appear:
-   the focus ring, the verification-notice trio, and the --ink hover lift.
+   the focus ring, the verification-notice ground, and the --ink hover lift.
    ========================================================================== */
 
 :root{
@@ -100,9 +100,11 @@ footer div:last-child{display:flex;flex-direction:column;align-items:end;gap:8px
 .card-content{padding:22px;display:flex;flex-direction:column;flex:1}
 .house{font-size:12px;letter-spacing:1.2px;text-transform:uppercase;font-weight:600;color:var(--muted);display:block}
 /* Two lines' worth of house name, so every title in a row starts on the same
-   baseline however long the house is. Released at 680px, where the grid is a
-   single column and there is nothing left to align. */
-.card .house{min-height:38px}
+   baseline however long the house is. 38.4px is exactly two line boxes at
+   12px/1.6; 38px leaves the rows a visible-to-a-diff 0.4px apart. Released at
+   680px, where the grid is a single column and there is nothing left to
+   align. */
+.card .house{min-height:38.4px}
 .card h3{font-size:30px;margin:6px 0 9px}
 .card h3 a{text-decoration:none}
 .card a:hover h3,.card h3 a:hover{text-decoration:underline}
