@@ -22,4 +22,20 @@ for(const record of records){
 }
 context.bad=JSON.stringify({...records[0],context_source:'javascript:alert(1)'});
 assert.throws(()=>vm.runInContext('validateRecords([JSON.parse(bad)])',context));
-console.log('PASS: eight editorial sections, valid source links, existing local images, truthful related-record connections and unsafe editorial URL rejection. Not a browser visual test.');
+context.badOil=JSON.stringify({...records[0],oil_concentration:25});
+assert.throws(()=>vm.runInContext('validateRecords([JSON.parse(badOil)])',context),/Invalid oil concentration/,'non-string oil_concentration must be rejected');
+context.blankGrade=JSON.stringify({...records[0],source_grade:'   '});
+assert.throws(()=>vm.runInContext('validateRecords([JSON.parse(blankGrade)])',context),/Invalid source_grade/,'a blank source_grade must be rejected');
+const withOil=records.find(r=>r.oil_concentration);
+assert(withOil,'expected at least one record carrying oil_concentration');
+context.graded=JSON.stringify([{...withOil,source_grade:'Third-party retailer'}]);
+vm.runInContext('records=validateRecords(JSON.parse(graded));',context);
+context.location.hash='#fragrance/'+withOil.id;vm.runInContext('render()',context);
+const detail=el('main').innerHTML;
+const rx=t=>t.replace(/[.*+?^${}()|[\]\\]/g,'\\$&');
+const escIn=v=>vm.runInContext('esc('+JSON.stringify(v)+')',context);
+assert(new RegExp('<span class="verified">Source: Third-party retailer \u00b7 Checked ').test(detail),'the byline itself must carry the record\'s own source_grade');
+assert(!detail.includes('Official house source'),'detail() must not hardcode a source grade');
+assert(new RegExp('<dt>Concentration</dt><dd>[^<]*'+rx(escIn(withOil.oil_concentration))+'</dd>').test(detail),'oil_concentration must render inside the Concentration cell, escaped');
+vm.runInContext('records=validateRecords(JSON.parse(raw));',context);
+console.log('PASS: eight editorial sections, rendered source grades, validated oil concentration, valid source links, existing local images, truthful related-record connections and unsafe editorial URL rejection. Not a browser visual test.');
