@@ -1,0 +1,17 @@
+name = "scent-ledger"
+main = "server/worker.js"
+compatibility_date = "2026-09-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "scent-ledger"
+database_id = "REPLACE_WITH_D1_DATABASE_ID"
+migrations_dir = "drizzle"
+
+[assets]
+directory = "web"
+binding = "ASSETS"
+not_found_handling = "404-page"
+
+[vars]
+ADMIN_IDS = ""

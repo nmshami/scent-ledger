@@ -1,0 +1,19 @@
+{
+  "name": "scent-ledger",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "db:generate": "drizzle-kit generate",
+    "db:migrate:local": "wrangler d1 migrations apply scent-ledger --local",
+    "db:migrate:remote": "wrangler d1 migrations apply scent-ledger --remote"
+  },
+  "dependencies": {
+    "drizzle-orm": "^0.44.0"
+  },
+  "devDependencies": {
+    "drizzle-kit": "^0.31.0",
+    "wrangler": "^4.0.0"
+  }
+}
