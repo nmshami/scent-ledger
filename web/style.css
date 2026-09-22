@@ -93,7 +93,7 @@ footer div:last-child{display:flex;flex-direction:column;align-items:end;gap:8px
 
 .grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px}
 .card{border:1px solid var(--line);border-radius:3px;background:var(--paper);overflow:hidden;display:flex;flex-direction:column}
-.imagebox{height:210px;position:relative;background:var(--panel);overflow:hidden}
+.imagebox{height:210px;position:relative;container-type:inline-size;background:var(--panel);overflow:hidden}
 .imagebox a{display:block;height:100%}
 .imagebox img{width:100%;height:100%;object-fit:contain;padding:22px 30px 35px;mix-blend-mode:multiply}
 .image-label{position:absolute;bottom:12px;left:18px;font-size:12px;color:var(--muted);pointer-events:none}
@@ -112,6 +112,15 @@ footer div:last-child{display:flex;flex-direction:column;align-items:end;gap:8px
 .no-photo{height:100%;min-height:190px;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;gap:12px;padding:28px;background:var(--panel)}
 .no-photo strong{font:30px/1.1 var(--serif);max-width:280px}
 .no-photo>span:last-child{font-size:12px;color:var(--muted)}
+/* On a card, .image-label is positioned over the bottom of the plate: 12px up
+   and 19.2px tall, so the bottom 31.2px belongs to it. The placeholder centres
+   through that band unless it is reserved, and its name is sized against the
+   card's own width rather than the viewport's, because the collision is driven
+   by column width — at three and four columns a 30px serif ran to five lines
+   and landed on the label. The detail and related-record placeholders have no
+   label over them and keep the shared rules. */
+.imagebox .no-photo{padding-bottom:47px}
+.imagebox .no-photo strong{font-size:clamp(20px,9.5cqw,30px)}
 
 /* --- Note illustrations -------------------------------------------------- */
 
