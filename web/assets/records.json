@@ -4,12 +4,9 @@
     "name": "Reflection Man",
     "house": "Amouage",
     "perfumer": "Lucas Sieuzac",
-    "year": null,
     "concentration": "Eau de Parfum",
     "oil_concentration": "25% (brand stated)",
-    "summary": "An eau de parfum by Lucas Sieuzac. Amouage lists aromatic and floral notes over a woody base and states a 25% oil concentration.",
-    "community_rating": null,
-    "review_count": 0,
+    "year": null,
     "notes": {
       "top": [
         "Rosemary",
@@ -29,12 +26,15 @@
         "Cedarwood"
       ]
     },
+    "summary": "An eau de parfum by Lucas Sieuzac. Amouage lists aromatic and floral notes over a woody base and states a 25% oil concentration.",
     "source": "https://amouage.com/products/reflection-man-100ml",
-    "image_file": "reflection-man.jpg",
     "image_source": "https://amouage.com/cdn/shop/files/REFLECTION_100_ML.jpg?v=1758803038&width=1000",
+    "image_file": "reflection-man.jpg",
     "verification_note": "Release year not confirmed on checked official page.",
     "verified_on": "2026-09-15",
     "source_grade": "Official house",
+    "community_rating": null,
+    "review_count": 0,
     "media_rights": "Official product image; private prototype reference only. No reuse license verified.",
     "editorial_context": "Amouage frames Reflection Man as a study in contrast: an aromatic, peppery opening of rosemary, red pepper berries and bitter orange leaves gives way to a powdery floral heart of neroli, orris and jasmine, before settling into a woody base of vetiver, patchouli, sandalwood and cedarwood. The house lists the eau de parfum at a 25% oil concentration, higher than many mainstream EDPs, which the brand ties to the composition's stated depth. Amouage has not published a release year on the checked page, so this record leaves that field unconfirmed rather than inferring one from resellers.",
     "context_source": "https://amouage.com/products/reflection-man-100ml"
@@ -44,11 +44,8 @@
     "name": "Portrait of a Lady",
     "house": "Éditions de Parfums Frédéric Malle",
     "perfumer": "Dominique Ropion",
-    "year": null,
     "concentration": "Eau de Parfum",
-    "summary": "Dominique Ropion’s eau de parfum is presented by the house as a floral chypre centered on rose. The official page lists raspberry, patchouli and incense among its notes.",
-    "community_rating": null,
-    "review_count": 0,
+    "year": null,
     "notes": {
       "shared_core": [
         "Rose",
@@ -57,12 +54,15 @@
         "Incense"
       ]
     },
+    "summary": "Dominique Ropion’s eau de parfum is presented by the house as a floral chypre centered on rose. The official page lists raspberry, patchouli and incense among its notes.",
     "source": "https://www.fredericmalle.com/product/19566/50241/parfums/portrait-of-a-lady/by-dominique-ropion",
-    "image_file": "portrait-lady.jpg",
     "image_source": "https://www.fredericmalle.com/media/images/products/630x615/fm_sku_H4FE01_630x615_0.jpg",
+    "image_file": "portrait-lady.jpg",
     "verification_note": "Official Description and Details contain different note pyramids. Shared core only displayed pending clarification. Release year not verified.",
     "verified_on": "2026-09-15",
     "source_grade": "Official house",
+    "community_rating": null,
+    "review_count": 0,
     "media_rights": "Official product image; private prototype reference only. No reuse license verified.",
     "editorial_context": "Frédéric Malle presents Portrait of a Lady as Dominique Ropion's take on the floral chypre, built around an intense rose accord layered with raspberry, patchouli and incense. The house's own product page is not fully consistent: its Description and Details sections list different note structures, so this record shows only the notes that appear in both rather than treating either version as more authoritative. A release year is not stated on the checked page and is left unconfirmed here rather than sourced from resellers.",
     "context_source": "https://www.fredericmalle.com/product/19566/50241/parfums/portrait-of-a-lady/by-dominique-ropion"
@@ -72,11 +72,8 @@
     "name": "Terre d’Hermès",
     "house": "Hermès",
     "perfumer": "Jean-Claude Ellena",
-    "year": 2006,
     "concentration": "Eau de Toilette",
-    "summary": "Created by Jean-Claude Ellena in 2006. Hermès describes this eau de toilette through woody and mineral notes, highlighting grapefruit, cedar and flint.",
-    "community_rating": null,
-    "review_count": 0,
+    "year": 2006,
     "notes": {
       "brand_highlights": [
         "Grapefruit",
@@ -84,12 +81,15 @@
         "Flint"
       ]
     },
+    "summary": "Created by Jean-Claude Ellena in 2006. Hermès describes this eau de toilette through woody and mineral notes, highlighting grapefruit, cedar and flint.",
     "source": "https://www.hermes.com/be/en/product/terre-d-hermes-eau-de-toilette-V107748V0/",
-    "image_file": "terre-hermes.jpg",
     "image_source": "https://assets.hermes.com/is/image/hermesproduct/terre-d-hermes-eau-de-toilette--107748V0-worn-2-0-0-800-800_g.jpg",
+    "image_file": "terre-hermes.jpg",
     "verification_note": "Official highlights are marketing notes, not a disclosed formula or complete ingredient pyramid.",
     "verified_on": "2026-09-15",
     "source_grade": "Official house",
+    "community_rating": null,
+    "review_count": 0,
     "media_rights": "Official product image; private prototype reference only. No reuse license verified.",
     "editorial_context": "Hermès attributes Terre d'Hermès, released in 2006, to perfumer Jean-Claude Ellena and describes it through a woody, mineral vocabulary: grapefruit for brightness, cedar for structure and a 'flint' accord meant to suggest stone struck against metal. These are the house's own highlighted notes rather than a disclosed ingredient pyramid, and Hermès does not publish a complete formula on its official product page.",
     "context_source": "https://www.hermes.com/be/en/product/terre-d-hermes-eau-de-toilette-V107748V0/"
@@ -784,15 +784,19 @@
       {
         "url": "https://www.fragrantica.com/perfume/Hermes/Musc-Pallida-Eau-de-Parfum-123222.html",
         "label": "Community database (Fragrantica) — per-fragrance cross-check; perfumer, concentration, notes"
+      },
+      {
+        "url": "https://www.hermes.com/us/en/product/musc-pallida-essence-de-parfum-V107115V0/",
+        "label": "Official house — the essence de parfum sharing the name; checked to confirm both are Hermessence"
       }
     ],
     "image_file": null,
     "image_source": null,
-    "verification_note": "Release year is not stated on the checked official page and remains null; Fragrantica's per-fragrance entry gives 2026. This record covers the Eau de Parfum only. Hermès sells a Musc Pallida essence de parfum under the same name in the same Hermessence collection; the official page references it only as a layering step and never states how the two compositions relate, and the essence's own page was not checked for this record. Fragrantica lists aldehydes as a top note, which Hermès does not name among its raw materials, so aldehydes are not recorded here.",
+    "verification_note": "Release year is not stated on the checked official page and remains null; Fragrantica's per-fragrance entry gives 2026. This record covers the Eau de Parfum only. Hermès sells a Musc Pallida essence de parfum under the same name, and both product pages carry the same Hermessence collection text, so the two are different concentrations within one collection rather than separate lines; neither page states how the compositions relate, and the essence's page credits no perfumer. Fragrantica lists aldehydes as a top note, which Hermès does not name among its raw materials, so aldehydes are not recorded here.",
     "verified_on": "2026-09-22",
     "source_grade": "Official house",
     "media_rights": "No product image supplied.",
-    "editorial_context": "Hermès sells Musc Pallida in more than one concentration inside its Hermessence collection, and this record covers the eau de parfum rather than the essence de parfum that shares the name. Christine Nagel is credited on the house's page, which names only two main raw materials, a powdery iris and a caressing musk, and pitches the effect as skin-close rather than projecting. The house never states how the two compositions relate, so this record does not treat either as a version of the other. No release year appears on the checked page.",
+    "editorial_context": "Hermès sells Musc Pallida in more than one concentration inside its Hermessence collection, and this record covers the eau de parfum rather than the essence de parfum that shares the name. Christine Nagel is credited on the house's page, which names only two main raw materials, a powdery iris and a caressing musk. The house never states how the two compositions relate, so this record does not treat either as a version of the other. No release year appears on the checked page.",
     "context_source": "https://www.hermes.com/us/en/product/musc-pallida-eau-de-parfum-V117337V0/"
   },
   {
@@ -1013,7 +1017,7 @@
     ],
     "image_file": null,
     "image_source": null,
-    "verification_note": "Release year is not stated on the checked official page and remains null; Fragrantica's per-fragrance entry gives 2026. Amouage marks Elsewhere as new on its Essences collection page alongside Line 618, Remain and Sequence, though that page's introductory text names only those three. Fragrantica spells the perfumer without the accent the house uses.",
+    "verification_note": "Release year is not stated on the checked official page and remains null; Fragrantica's per-fragrance entry gives 2026. Amouage marks Elsewhere as new on its Essences collection page alongside Line 618, Remain and Sequence, though that page's introductory text describes only three new expressions. Fragrantica spells the perfumer without the accent the house uses.",
     "verified_on": "2026-09-22",
     "source_grade": "Official house",
     "media_rights": "No product image supplied.",
