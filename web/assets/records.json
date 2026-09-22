@@ -721,5 +721,307 @@
     "media_rights": "No product image supplied.",
     "editorial_context": "Scentsorium is a six-chapter collection of genderless parfums developed through Maison Margiela's Artisanal Atelier, each chapter built by the house around a fleeting emotional state and given its own product page, perfumer and note pyramid. This record covers Fit of Folly, composed by Suzy Le Helley & Philippe Paparella and classed by the house as a fougère musky, with top: calabrian bergamot heart essence; heart: musks, sandalwood essence; base: patchouli essence, ambery wood accord, vetiver heart. The house states no release year anywhere on its product pages even though secondary sources place the launch in 2026, and it labels the line Parfum where several press write-ups call it eau de parfum.",
     "context_source": "https://www.maisonmargiela-fragrances.us/fragrances/new-scentsorium-eau-de-parfum/scentsorium-fit-of-folly-parfum/MM190.html"
+  },
+  {
+    "id": "un-jardin-sous-la-mer",
+    "name": "Un Jardin sous la Mer",
+    "house": "Hermès",
+    "perfumer": "Christine Nagel",
+    "year": null,
+    "concentration": "Eau de Toilette",
+    "summary": "Hermès credits Christine Nagel with this eau de toilette and lists three main raw materials: tiare flower, tamanu nut and a mineral coral accord.",
+    "community_rating": null,
+    "review_count": 0,
+    "notes": {
+      "brand_highlights": [
+        "Tiare flower",
+        "Tamanu nut",
+        "Mineral coral accord"
+      ]
+    },
+    "source": "https://www.hermes.com/us/en/product/un-jardin-sous-la-mer-eau-de-toilette-V117484V0/",
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/product/un-jardin-sous-la-mer-eau-de-toilette-V117484V0/",
+        "label": "Official house — name, house, perfumer, concentration, raw materials"
+      },
+      {
+        "url": "https://www.fragrantica.com/perfume/Hermes/Un-Jardin-Sous-la-Mer-123604.html",
+        "label": "Community database (Fragrantica) — per-fragrance cross-check; perfumer, concentration, notes"
+      }
+    ],
+    "image_file": null,
+    "image_source": null,
+    "verification_note": "Release year is not stated on the checked official page and remains null; Fragrantica's per-fragrance entry gives 2026. Hermès publishes three main raw materials rather than a top-heart-base pyramid. The house describes the scent as floral and musky in prose, and Fragrantica lists musk as a note, but musk does not appear among the raw materials Hermès names, so it is not recorded here.",
+    "verified_on": "2026-09-22",
+    "source_grade": "Official house",
+    "media_rights": "No product image supplied.",
+    "editorial_context": "Hermès adds Un Jardin sous la Mer to its Jardins line and credits it to house perfumer Christine Nagel, framing it as an underwater garden rather than a terrestrial one. The house names three main raw materials, tiare flower, tamanu nut and a mineral coral accord, and classes the olfactory emotion as fresh and delicate, which is its standard format for the line rather than a full pyramid. Hermès calls the result floral and musky in its prose and Fragrantica lists musk outright, but musk is absent from the raw materials the house actually names, so this record leaves it out. No release year appears on the checked page.",
+    "context_source": "https://www.hermes.com/us/en/product/un-jardin-sous-la-mer-eau-de-toilette-V117484V0/"
+  },
+  {
+    "id": "musc-pallida-eau-de-parfum",
+    "name": "Musc Pallida Eau de Parfum",
+    "house": "Hermès",
+    "perfumer": "Christine Nagel",
+    "year": null,
+    "concentration": "Eau de Parfum",
+    "summary": "Christine Nagel's eau de parfum reading of Musc Pallida. Hermès names two main raw materials, powdery iris and a caressing musk.",
+    "community_rating": null,
+    "review_count": 0,
+    "notes": {
+      "brand_highlights": [
+        "Powdery iris",
+        "Caressing musk"
+      ]
+    },
+    "source": "https://www.hermes.com/us/en/product/musc-pallida-eau-de-parfum-V117337V0/",
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/product/musc-pallida-eau-de-parfum-V117337V0/",
+        "label": "Official house — name, house, perfumer, concentration, raw materials"
+      },
+      {
+        "url": "https://www.fragrantica.com/perfume/Hermes/Musc-Pallida-Eau-de-Parfum-123222.html",
+        "label": "Community database (Fragrantica) — per-fragrance cross-check; perfumer, concentration, notes"
+      },
+      {
+        "url": "https://www.hermes.com/us/en/product/musc-pallida-essence-de-parfum-V107115V0/",
+        "label": "Official house — the essence de parfum sharing the name; checked to confirm both are Hermessence"
+      }
+    ],
+    "image_file": null,
+    "image_source": null,
+    "verification_note": "Release year is not stated on the checked official page and remains null; Fragrantica's per-fragrance entry gives 2026. This record covers the Eau de Parfum only. Hermès sells a Musc Pallida essence de parfum under the same name, and both product pages carry the same Hermessence collection text, so the two are different concentrations within one collection rather than separate lines; neither page states how the compositions relate, and the essence's page credits no perfumer. Fragrantica lists aldehydes as a top note, which Hermès does not name among its raw materials, so aldehydes are not recorded here.",
+    "verified_on": "2026-09-22",
+    "source_grade": "Official house",
+    "media_rights": "No product image supplied.",
+    "editorial_context": "Hermès sells Musc Pallida in more than one concentration inside its Hermessence collection, and this record covers the eau de parfum rather than the essence de parfum that shares the name. Christine Nagel is credited on the house's page, which names only two main raw materials, a powdery iris and a caressing musk. The house never states how the two compositions relate, so this record does not treat either as a version of the other. No release year appears on the checked page.",
+    "context_source": "https://www.hermes.com/us/en/product/musc-pallida-eau-de-parfum-V117337V0/"
+  },
+  {
+    "id": "amouage-sequence",
+    "name": "Sequence",
+    "house": "Amouage",
+    "perfumer": "Julien Rasquinet",
+    "year": null,
+    "concentration": "Essence de Parfum",
+    "oil_concentration": "30% (brand stated)",
+    "summary": "Part of Amouage's Essences collection, composed by Julien Rasquinet. The house states a 30% oil concentration and lists lychee, raspberry, saffron among its notes.",
+    "community_rating": null,
+    "review_count": 0,
+    "notes": {
+      "top": [
+        "Lychee",
+        "Raspberry",
+        "Saffron"
+      ],
+      "heart": [
+        "Rose",
+        "Osmanthus",
+        "Tonka Bean"
+      ],
+      "base": [
+        "Oud",
+        "Leather",
+        "Ambery Woods"
+      ]
+    },
+    "source": "https://amouage.com/products/sequence",
+    "sources": [
+      {
+        "url": "https://amouage.com/products/sequence",
+        "label": "Official house — name, house, perfumer, concentration, notes"
+      },
+      {
+        "url": "https://amouage.com/pages/essences-the-second-trilogy",
+        "label": "Official house — Essences collection listing"
+      },
+      {
+        "url": "https://www.fragrantica.com/perfume/Amouage/Sequence-121884.html",
+        "label": "Community database (Fragrantica) — per-fragrance cross-check; perfumer, notes"
+      }
+    ],
+    "image_file": null,
+    "image_source": null,
+    "verification_note": "Release year is not stated on the checked official page and remains null; Fragrantica's per-fragrance entry gives 2026. Amouage's own page is internally inconsistent on this one, titling it Sequence Extrait de Parfum while stating the concentration as 30% Essence de Parfum; the house's concentration wording is recorded and the conflict left visible. Fragrantica classes it as an extrait, so it does not corroborate the house's wording either.",
+    "verified_on": "2026-09-22",
+    "source_grade": "Official house",
+    "media_rights": "No product image supplied.",
+    "editorial_context": "Amouage places Sequence in its Essences collection and credits Julien Rasquinet, stating a 30% oil concentration well above a conventional eau de parfum. The house publishes a full pyramid: top: lychee, raspberry, saffron; heart: rose, osmanthus, tonka bean; base: oud, leather, ambery woods. It also lists an Infusion Patina of sandalwood and oakwood, which it attributes to the ageing of the finished perfume rather than to the composition, so those two woods are not recorded among the notes.",
+    "context_source": "https://amouage.com/products/sequence"
+  },
+  {
+    "id": "amouage-remain",
+    "name": "Remain",
+    "house": "Amouage",
+    "perfumer": "Pierre Négrin",
+    "year": null,
+    "concentration": "Essence de Parfum",
+    "oil_concentration": "30% (brand stated)",
+    "summary": "Part of Amouage's Essences collection, composed by Pierre Négrin. The house states a 30% oil concentration and lists hojari frankincense, mandarin, pimento berry among its notes.",
+    "community_rating": null,
+    "review_count": 0,
+    "notes": {
+      "top": [
+        "Hojari Frankincense",
+        "Mandarin",
+        "Pimento Berry",
+        "Bergamot"
+      ],
+      "heart": [
+        "Madonna Lily",
+        "Ylang-ylang",
+        "Juniper",
+        "Jasmine"
+      ],
+      "base": [
+        "Ambergris",
+        "Guaiacwood",
+        "Patchouli",
+        "Vanilla",
+        "Tonka Bean"
+      ]
+    },
+    "source": "https://amouage.com/products/remain",
+    "sources": [
+      {
+        "url": "https://amouage.com/products/remain",
+        "label": "Official house — name, house, perfumer, concentration, notes"
+      },
+      {
+        "url": "https://amouage.com/pages/essences-the-second-trilogy",
+        "label": "Official house — Essences collection listing"
+      },
+      {
+        "url": "https://www.fragrantica.com/perfume/Amouage/Remain-121883.html",
+        "label": "Community database (Fragrantica) — per-fragrance cross-check; perfumer, notes"
+      }
+    ],
+    "image_file": null,
+    "image_source": null,
+    "verification_note": "Release year is not stated on the checked official page and remains null; Fragrantica's per-fragrance entry gives 2026. Fragrantica's per-fragrance entry matches the house's pyramid, shortening Madonna lily to lily, and spells the perfumer without the accent the house uses.",
+    "verified_on": "2026-09-22",
+    "source_grade": "Official house",
+    "media_rights": "No product image supplied.",
+    "editorial_context": "Amouage places Remain in its Essences collection and credits Pierre Négrin, stating a 30% oil concentration well above a conventional eau de parfum. The house publishes a full pyramid: top: hojari frankincense, mandarin, pimento berry, bergamot; heart: madonna lily, ylang-ylang, juniper, jasmine; base: ambergris, guaiacwood, patchouli, vanilla, tonka bean. It also lists an Infusion Patina of sandalwood and oakwood, which it attributes to the ageing of the finished perfume rather than to the composition, so those two woods are not recorded among the notes.",
+    "context_source": "https://amouage.com/products/remain"
+  },
+  {
+    "id": "amouage-line-618",
+    "name": "Line 618",
+    "house": "Amouage",
+    "perfumer": "Nathalie Lorson",
+    "year": null,
+    "concentration": "Essence de Parfum",
+    "oil_concentration": "30% (brand stated)",
+    "summary": "Part of Amouage's Essences collection, composed by Nathalie Lorson. The house states a 30% oil concentration and lists hojari frankincense, black pepper, pineapple among its notes.",
+    "community_rating": null,
+    "review_count": 0,
+    "notes": {
+      "top": [
+        "Hojari Frankincense",
+        "Black Pepper",
+        "Pineapple",
+        "Peach",
+        "Plum"
+      ],
+      "heart": [
+        "Pine",
+        "Heliotrope",
+        "Coconut Milk"
+      ],
+      "base": [
+        "Patchouli",
+        "Sandalwood",
+        "Guaiacwood",
+        "Leather"
+      ]
+    },
+    "source": "https://amouage.com/products/line-618",
+    "sources": [
+      {
+        "url": "https://amouage.com/products/line-618",
+        "label": "Official house — name, house, perfumer, concentration, notes"
+      },
+      {
+        "url": "https://amouage.com/pages/essences-the-second-trilogy",
+        "label": "Official house — Essences collection listing"
+      },
+      {
+        "url": "https://www.fragrantica.com/perfume/Amouage/Line-618-121882.html",
+        "label": "Community database (Fragrantica) — per-fragrance cross-check; perfumer, notes"
+      }
+    ],
+    "image_file": null,
+    "image_source": null,
+    "verification_note": "Release year is not stated on the checked official page and remains null; Fragrantica's per-fragrance entry gives 2026. Retailers including Nordstrom and ZGO Perfumery list this as an eau de parfum, and Fragrantica classes it the same way, where the house states Essence de Parfum at 30%.",
+    "verified_on": "2026-09-22",
+    "source_grade": "Official house",
+    "media_rights": "No product image supplied.",
+    "editorial_context": "Amouage places Line 618 in its Essences collection and credits Nathalie Lorson, stating a 30% oil concentration well above a conventional eau de parfum. The house publishes a full pyramid: top: hojari frankincense, black pepper, pineapple, peach, plum; heart: pine, heliotrope, coconut milk; base: patchouli, sandalwood, guaiacwood, leather. It also lists an Infusion Patina of sandalwood and oakwood, which it attributes to the ageing of the finished perfume rather than to the composition, so those two woods are not recorded among the notes.",
+    "context_source": "https://amouage.com/products/line-618"
+  },
+  {
+    "id": "amouage-elsewhere",
+    "name": "Elsewhere",
+    "house": "Amouage",
+    "perfumer": "Pierre Négrin",
+    "year": null,
+    "concentration": "Essence de Parfum",
+    "oil_concentration": "30% (brand stated)",
+    "summary": "Part of Amouage's Essences collection, composed by Pierre Négrin. The house states a 30% oil concentration and lists honey, tangerine, grapefruit among its notes.",
+    "community_rating": null,
+    "review_count": 0,
+    "notes": {
+      "top": [
+        "Honey",
+        "Tangerine",
+        "Grapefruit",
+        "Mango",
+        "Pomegranate",
+        "Apricot",
+        "Ginger",
+        "Cardamom",
+        "Pink Pepper"
+      ],
+      "heart": [
+        "Black Tea",
+        "Cappuccino",
+        "Davana"
+      ],
+      "base": [
+        "Tonka Bean",
+        "Vanilla",
+        "Cedarwood",
+        "Labdanum",
+        "Cypriol",
+        "Vetiver",
+        "Patchouli"
+      ]
+    },
+    "source": "https://amouage.com/products/elsewhere",
+    "sources": [
+      {
+        "url": "https://amouage.com/products/elsewhere",
+        "label": "Official house — name, house, perfumer, concentration, notes"
+      },
+      {
+        "url": "https://amouage.com/pages/essences-the-second-trilogy",
+        "label": "Official house — Essences collection listing"
+      },
+      {
+        "url": "https://www.fragrantica.com/perfume/Amouage/Elsewhere-136307.html",
+        "label": "Community database (Fragrantica) — per-fragrance cross-check; perfumer, notes"
+      }
+    ],
+    "image_file": null,
+    "image_source": null,
+    "verification_note": "Release year is not stated on the checked official page and remains null; Fragrantica's per-fragrance entry gives 2026. Amouage marks Elsewhere as new on its Essences collection page alongside Line 618, Remain and Sequence, though that page's introductory text describes only three new expressions. Fragrantica spells the perfumer without the accent the house uses.",
+    "verified_on": "2026-09-22",
+    "source_grade": "Official house",
+    "media_rights": "No product image supplied.",
+    "editorial_context": "Amouage places Elsewhere in its Essences collection and credits Pierre Négrin, stating a 30% oil concentration well above a conventional eau de parfum. The house publishes a full pyramid: top: honey, tangerine, grapefruit, mango, pomegranate, apricot, ginger, cardamom, pink pepper; heart: black tea, cappuccino, davana; base: tonka bean, vanilla, cedarwood, labdanum, cypriol, vetiver, patchouli. It also lists an Infusion Patina of sandalwood and oakwood, which it attributes to the ageing of the finished perfume rather than to the composition, so those two woods are not recorded among the notes.",
+    "context_source": "https://amouage.com/products/elsewhere"
   }
 ]
