@@ -8,7 +8,7 @@ vm.createContext(context);vm.runInContext(fs.readFileSync('web/app.js','utf8'),c
 context.raw=fs.readFileSync('web/assets/records.json','utf8');
 vm.runInContext('records=validateRecords(JSON.parse(raw));',context);
 const records=JSON.parse(context.raw);
-assert.equal(records.length,8);
+assert.equal(records.length,23);
 for(const record of records){
  assert(record.editorial_context?.length>180,'Missing useful context: '+record.id);
  assert(record.context_source?.startsWith('https://'),'Missing context source');
@@ -38,4 +38,4 @@ assert(new RegExp('<span class="verified">Source: Third-party retailer \u00b7 Ch
 assert(!detail.includes('Official house source'),'detail() must not hardcode a source grade');
 assert(new RegExp('<dt>Concentration</dt><dd>[^<]*'+rx(escIn(withOil.oil_concentration))+'</dd>').test(detail),'oil_concentration must render inside the Concentration cell, escaped');
 vm.runInContext('records=validateRecords(JSON.parse(raw));',context);
-console.log('PASS: eight editorial sections, rendered source grades, validated oil concentration, valid source links, existing local images, truthful related-record connections and unsafe editorial URL rejection. Not a browser visual test.');
+console.log('PASS: twenty-three editorial sections, rendered source grades, validated oil concentration, valid source links, existing local images, truthful related-record connections and unsafe editorial URL rejection. Not a browser visual test.');

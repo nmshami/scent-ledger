@@ -288,5 +288,740 @@
     "media_rights": "No product image supplied.",
     "editorial_context": "Chanel describes BLEU DE CHANEL Eau de Parfum as an aromatic-woody composition, built on ambery and musky notes with cedar and New Caledonian sandalwood forming its base. The house's Composition section is the only source used for this record; broader marketing material sometimes implies a specific perfumer, but Chanel does not credit one on the checked page, so no name is listed here. A release year is likewise unconfirmed on the official page.",
     "context_source": "https://www.chanel.com/gb/fragrance/p/107360/bleu-de-chanel-eau-de-parfum-spray/"
+  },
+  {
+    "id": "dior-addict-rosy-glow",
+    "name": "Dior Addict Rosy Glow",
+    "house": "Dior",
+    "perfumer": null,
+    "year": null,
+    "concentration": "Eau de Parfum",
+    "summary": "Dior presents this eau de parfum through three highlighted accords: sparkling lychee, Damascena rose essence and a vanilla whipped cream accord with caramelised facets.",
+    "community_rating": null,
+    "review_count": 0,
+    "notes": {
+      "brand_highlights": [
+        "Sparkling lychee accord",
+        "Damascena rose essence",
+        "Vanilla whipped cream accord"
+      ]
+    },
+    "source": "https://www.dior.com/en_us/beauty/products/dior-addict-rosy-glow-Y0000180.html",
+    "sources": [
+      {
+        "url": "https://www.dior.com/en_us/beauty/products/dior-addict-rosy-glow-Y0000180.html",
+        "label": "Official house — name, house, concentration, notes"
+      },
+      {
+        "url": "https://www.dior.com/en_us/beauty/page/discover-dior-addict-fragrance.html",
+        "label": "Official house — Dior Addict collection description"
+      },
+      {
+        "url": "https://www.sephora.com/product/dior-addict-rosy-glow-P520291",
+        "label": "Retailer (Sephora) — cross-check; attributes the fragrance to Francis Kurkdjian"
+      },
+      {
+        "url": "https://www.fragrantica.com/perfume/Dior/Addict-Rosy-Glow-Eau-de-Parfum-121567.html",
+        "label": "Community database (Fragrantica) — cross-check; gives 2025 and credits Francis Kurkdjian"
+      }
+    ],
+    "image_file": null,
+    "image_source": null,
+    "verification_note": "Perfumer and release year are not stated on the checked Dior pages and remain null. Sephora and Fragrantica both attribute the composition to Francis Kurkdjian, but Dior does not credit a perfumer on its own product page, so no name is recorded here. Release year is disputed between secondary sources: Fragrantica lists 2025 while ScentAdvice lists 2026. Notes are Dior's highlighted accords, not a full pyramid; Fragrantica separately lists caramel as a base note where Dior describes only \"caramelized notes\".",
+    "verified_on": "2026-09-21",
+    "source_grade": "Official house",
+    "media_rights": "No product image supplied.",
+    "editorial_context": "Dior builds Addict Rosy Glow around Damascena rose essence, lifting it with a lychee accord and settling it into a vanilla cream base with caramelised facets. These are highlighted accords rather than a top-heart-base pyramid, and the house names neither a perfumer nor a release year. Sephora and Fragrantica both attribute the composition to Francis Kurkdjian, but since Dior makes no such credit itself, the field is left empty here rather than borrowed. The release year is contested between secondary sources rather than settled by the house.",
+    "context_source": "https://www.dior.com/en_us/beauty/products/dior-addict-rosy-glow-Y0000180.html"
+  },
+  {
+    "id": "libre-santal-couture",
+    "name": "Libre Santal Couture",
+    "house": "Yves Saint Laurent",
+    "perfumer": "Anne Flipo",
+    "year": null,
+    "concentration": "Eau de Parfum",
+    "summary": "A limited-edition Libre flanker credited by the house to Anne Flipo, built on French lavender and a Moroccan orange blossom accord over New Caledonian sandalwood.",
+    "community_rating": null,
+    "review_count": 0,
+    "notes": {
+      "brand_highlights": [
+        "French diva lavender",
+        "Moroccan orange blossom accord",
+        "New Caledonian sandalwood"
+      ]
+    },
+    "source": "https://www.yslbeautyus.com/fragrance/womens-fragrances/libre/libre-eau-de-parfum-santal-couture/WW-51574YSL.html",
+    "sources": [
+      {
+        "url": "https://www.yslbeautyus.com/fragrance/womens-fragrances/libre/libre-eau-de-parfum-santal-couture/WW-51574YSL.html",
+        "label": "Official house — name, house, concentration, notes, limited-edition status"
+      },
+      {
+        "url": "https://www.yslbeauty.com/int/fragrance/feminine-fragrance/libre/libre-santal-couture-eau-de-parfum/WW-51574YSL.html",
+        "label": "Official house (international) — perfumer credit, Anne Flipo"
+      }
+    ],
+    "image_file": null,
+    "image_source": null,
+    "verification_note": "Release year is not stated on either checked official page and remains null. The perfumer credit appears only on YSL's international page; the US product page names no perfumer. The house's US page writes \"Caledonian Sandalwood\" while the international page writes \"New Caledonian sandalwood\"; the fuller form is recorded here. Notes are the house's highlighted ingredients, not a full pyramid — the only complete list YSL publishes is a regulatory ingredient declaration, which is not a note pyramid.",
+    "verified_on": "2026-09-21",
+    "source_grade": "Official house",
+    "media_rights": "No product image supplied.",
+    "editorial_context": "Yves Saint Laurent frames Libre Santal Couture as a limited-edition reworking of Libre that turns a traditionally masculine woody register into a signature for the line. The house highlights French lavender and a Moroccan orange blossom accord over New Caledonian sandalwood, calling the result a sandalwood floral rather than the spicy floral of the original. The perfumer credit is worth noting for where it was found: the international page names Anne Flipo, while the US page for the same product code credits nobody. Neither page states a release year.",
+    "context_source": "https://www.yslbeauty.com/int/fragrance/feminine-fragrance/libre/libre-santal-couture-eau-de-parfum/WW-51574YSL.html"
+  },
+  {
+    "id": "orpheon-eau-de-toilette",
+    "name": "Orphéon Eau de Toilette",
+    "house": "Diptyque",
+    "perfumer": null,
+    "year": null,
+    "concentration": "Eau de Toilette",
+    "summary": "Diptyque's eau de toilette reading of Orphéon. The official page names green mandarin and juniper berries at the opening and cedar in the base, describing the heart only as a blooming floral.",
+    "community_rating": null,
+    "review_count": 0,
+    "notes": {
+      "top": [
+        "Green mandarin",
+        "Juniper berries"
+      ],
+      "base": [
+        "Cedar"
+      ]
+    },
+    "source": "https://us.diptyqueparis.com/en-us/products/eau-de-toilette-orpheon-orphedt100",
+    "sources": [
+      {
+        "url": "https://us.diptyqueparis.com/en-us/products/eau-de-toilette-orpheon-orphedt100",
+        "label": "Official house — name, house, concentration, notes"
+      },
+      {
+        "url": "https://us.diptyqueparis.com/en-us/pages/collection-orpheon",
+        "label": "Official house — Orphéon collection context"
+      },
+      {
+        "url": "https://hypebeast.com/2026/2/diptyque-orpheon-new-eau-de-toilette-release-info",
+        "label": "Press (Hypebeast) — cross-check; credits Natalie Cetto and a 18 February 2026 release"
+      }
+    ],
+    "image_file": null,
+    "image_source": null,
+    "verification_note": "Perfumer and release year are not stated on the checked official pages and remain null; Hypebeast credits Natalie Cetto and dates the release to 18 February 2026. The official notes conflict with press: Diptyque lists \"Green mandarin, Juniper berries\" at the opening, while Hypebeast reports green tangerine and Japanese yuzu, and rose and magnolia in the heart. Diptyque names no individual heart florals, describing only a \"blooming floral heart\", so no heart notes are recorded. Tonka bean, jasmine and rose appear elsewhere on Diptyque's page (meta description and ingredient list) but not in its stated note structure. This record covers the Eau de Toilette only, which is a distinct product from the earlier Orphéon Eau de Parfum.",
+    "verified_on": "2026-09-21",
+    "source_grade": "Official house",
+    "media_rights": "No product image supplied.",
+    "editorial_context": "Diptyque's Orphéon Eau de Toilette is a brighter counterpart to the house's existing Orphéon Eau de Parfum, and the two are separate products rather than one record. The official page leads with citrus and juniper over a woody base, naming green mandarin, juniper berries and cedar while describing the heart only as floral, so no heart notes are recorded here. Press coverage disagrees on the specifics, reporting a different citrus pairing, naming heart florals the house leaves unnamed, and crediting a perfumer and a February 2026 release date that Diptyque does not state. This record follows the house and leaves the conflict flagged rather than resolved.",
+    "context_source": "https://us.diptyqueparis.com/en-us/products/eau-de-toilette-orpheon-orphedt100"
+  },
+  {
+    "id": "scentsorium-blaze-of-stillness",
+    "name": "Scentsorium Blaze of Stillness",
+    "house": "Maison Margiela",
+    "perfumer": "Antoine Maisondieu",
+    "year": null,
+    "concentration": "Parfum",
+    "summary": "One of the six chapters of Maison Margiela's Scentsorium collection, composed by Antoine Maisondieu. The house classes it as ambery floral and lists bergamot duo, neroli essence, fig accord among its notes.",
+    "community_rating": null,
+    "review_count": 0,
+    "notes": {
+      "top": [
+        "Bergamot Duo",
+        "Neroli Essence"
+      ],
+      "heart": [
+        "Fig Accord",
+        "Orange Blossom Absolute"
+      ],
+      "base": [
+        "Indonesian Patchouli Heart",
+        "Madagascar Vanilla Absolute",
+        "Suede Accord"
+      ]
+    },
+    "source": "https://www.maisonmargiela-fragrances.us/fragrances/scentsorium-eau-de-parfum/scentsorium-blaze-of-stillness-parfum/MM185.html",
+    "sources": [
+      {
+        "url": "https://www.maisonmargiela-fragrances.us/fragrances/scentsorium-eau-de-parfum/scentsorium-blaze-of-stillness-parfum/MM185.html",
+        "label": "Official house — name, house, perfumer, concentration, notes"
+      },
+      {
+        "url": "https://www.maisonmargiela-fragrances.us/the-scentsorium-clp.html",
+        "label": "Official house — Scentsorium collection, six chapters"
+      },
+      {
+        "url": "https://nstperfume.com/2026/04/02/maison-margiela-scentsorium-collection-new-fragrances/",
+        "label": "Press (Now Smell This) — cross-check; dates the collection to April 2026 and calls it eau de parfum"
+      },
+      {
+        "url": "https://www.fragrantica.com/perfume/Maison-Martin-Margiela/Blaze-of-Stillness-129373.html",
+        "label": "Community database (Fragrantica) — per-fragrance cross-check; perfumer, notes, concentration"
+      }
+    ],
+    "image_file": null,
+    "image_source": null,
+    "verification_note": "Release year is not stated on the checked official page and remains null; Fragrantica's per-fragrance entry and press coverage both place the launch in 2026. Concentration is disputed, but not as widely as collection-level coverage suggests: Maison Margiela labels these Parfum and Fragrantica's per-fragrance entries agree wherever they state one, while Now Smell This, Fragrantica's own collection announcement and Selfridges describe the line as eau de parfum. \"Scentsorium\" is the collection name, not a fragrance — there is no single product by that name, and this record covers one of its six chapters, each of which has its own official product page, perfumer and note pyramid. The per-fragrance entry on Fragrantica independently gives the same perfumer, the same concentration and a matching note structure.",
+    "verified_on": "2026-09-21",
+    "source_grade": "Official house",
+    "media_rights": "No product image supplied.",
+    "editorial_context": "Scentsorium is a six-chapter collection of genderless parfums developed through Maison Margiela's Artisanal Atelier, each chapter built by the house around a fleeting emotional state and given its own product page, perfumer and note pyramid. This record covers Blaze of Stillness, composed by Antoine Maisondieu and classed by the house as an ambery floral, with top: bergamot duo, neroli essence; heart: fig accord, orange blossom absolute; base: indonesian patchouli heart, madagascar vanilla absolute, suede accord. The house states no release year anywhere on its product pages even though secondary sources place the launch in 2026, and it labels the line Parfum where several press write-ups call it eau de parfum.",
+    "context_source": "https://www.maisonmargiela-fragrances.us/fragrances/scentsorium-eau-de-parfum/scentsorium-blaze-of-stillness-parfum/MM185.html"
+  },
+  {
+    "id": "scentsorium-silent-fury",
+    "name": "Scentsorium Silent Fury",
+    "house": "Maison Margiela",
+    "perfumer": "Tanguy Guesnet",
+    "year": null,
+    "concentration": "Parfum",
+    "summary": "One of the six chapters of Maison Margiela's Scentsorium collection, composed by Tanguy Guesnet. The house classes it as spicy ambery and lists cardamom heart guatemala, tobacco accord, virginia cedarwood essence among its notes.",
+    "community_rating": null,
+    "review_count": 0,
+    "notes": {
+      "top": [
+        "Cardamom Heart Guatemala"
+      ],
+      "heart": [
+        "Tobacco Accord"
+      ],
+      "base": [
+        "Virginia Cedarwood Essence",
+        "Cistus Absolute"
+      ]
+    },
+    "source": "https://www.maisonmargiela-fragrances.us/fragrances/scentsorium-eau-de-parfum/scentsorium-silent-fury-parfum/MM186.html",
+    "sources": [
+      {
+        "url": "https://www.maisonmargiela-fragrances.us/fragrances/scentsorium-eau-de-parfum/scentsorium-silent-fury-parfum/MM186.html",
+        "label": "Official house — name, house, perfumer, concentration, notes"
+      },
+      {
+        "url": "https://www.maisonmargiela-fragrances.us/the-scentsorium-clp.html",
+        "label": "Official house — Scentsorium collection, six chapters"
+      },
+      {
+        "url": "https://nstperfume.com/2026/04/02/maison-margiela-scentsorium-collection-new-fragrances/",
+        "label": "Press (Now Smell This) — cross-check; dates the collection to April 2026 and calls it eau de parfum"
+      },
+      {
+        "url": "https://www.fragrantica.com/perfume/Maison-Martin-Margiela/Silent-Fury-129374.html",
+        "label": "Community database (Fragrantica) — per-fragrance cross-check; perfumer, notes"
+      }
+    ],
+    "image_file": null,
+    "image_source": null,
+    "verification_note": "Release year is not stated on the checked official page and remains null; Fragrantica's per-fragrance entry and press coverage both place the launch in 2026. Concentration is disputed, but not as widely as collection-level coverage suggests: Maison Margiela labels these Parfum and Fragrantica's per-fragrance entries agree wherever they state one, while Now Smell This, Fragrantica's own collection announcement and Selfridges describe the line as eau de parfum. \"Scentsorium\" is the collection name, not a fragrance — there is no single product by that name, and this record covers one of its six chapters, each of which has its own official product page, perfumer and note pyramid. Fragrantica's per-fragrance entry confirms the perfumer and lists cardamom, tobacco and cedarwood, but not the house's cistus absolute; Now Smell This reports patchouli in the base, which neither the house nor Fragrantica lists.",
+    "verified_on": "2026-09-21",
+    "source_grade": "Official house",
+    "media_rights": "No product image supplied.",
+    "editorial_context": "Scentsorium is a six-chapter collection of genderless parfums developed through Maison Margiela's Artisanal Atelier, each chapter built by the house around a fleeting emotional state and given its own product page, perfumer and note pyramid. This record covers Silent Fury, composed by Tanguy Guesnet and classed by the house as a spicy ambery, with top: cardamom heart guatemala; heart: tobacco accord; base: virginia cedarwood essence, cistus absolute. The house states no release year anywhere on its product pages even though secondary sources place the launch in 2026, and it labels the line Parfum where several press write-ups call it eau de parfum.",
+    "context_source": "https://www.maisonmargiela-fragrances.us/fragrances/scentsorium-eau-de-parfum/scentsorium-silent-fury-parfum/MM186.html"
+  },
+  {
+    "id": "scentsorium-anguish-and-awe",
+    "name": "Scentsorium Anguish and Awe",
+    "house": "Maison Margiela",
+    "perfumer": "Delphine Lebeau",
+    "year": null,
+    "concentration": "Parfum",
+    "summary": "One of the six chapters of Maison Margiela's Scentsorium collection, composed by Delphine Lebeau. The house classes it as ambery floral and lists bergamot essence, geranium heart madagascar, rose heart absolute among its notes.",
+    "community_rating": null,
+    "review_count": 0,
+    "notes": {
+      "top": [
+        "Bergamot Essence"
+      ],
+      "heart": [
+        "Geranium Heart Madagascar",
+        "Rose Heart Absolute"
+      ],
+      "base": [
+        "Virginia Cedarwood Essence",
+        "Leather Accord"
+      ]
+    },
+    "source": "https://www.maisonmargiela-fragrances.us/fragrances/new-scentsorium-eau-de-parfum/scentsorium-anguish-and-awe-parfum/MM187.html",
+    "sources": [
+      {
+        "url": "https://www.maisonmargiela-fragrances.us/fragrances/new-scentsorium-eau-de-parfum/scentsorium-anguish-and-awe-parfum/MM187.html",
+        "label": "Official house — name, house, perfumer, concentration, notes"
+      },
+      {
+        "url": "https://www.maisonmargiela-fragrances.us/the-scentsorium-clp.html",
+        "label": "Official house — Scentsorium collection, six chapters"
+      },
+      {
+        "url": "https://nstperfume.com/2026/04/02/maison-margiela-scentsorium-collection-new-fragrances/",
+        "label": "Press (Now Smell This) — cross-check; dates the collection to April 2026 and calls it eau de parfum"
+      },
+      {
+        "url": "https://www.fragrantica.com/perfume/Maison-Martin-Margiela/Anguish-Awe-129375.html",
+        "label": "Community database (Fragrantica) — per-fragrance cross-check; perfumer, notes"
+      }
+    ],
+    "image_file": null,
+    "image_source": null,
+    "verification_note": "Release year is not stated on the checked official page and remains null; Fragrantica's per-fragrance entry and press coverage both place the launch in 2026. Concentration is disputed, but not as widely as collection-level coverage suggests: Maison Margiela labels these Parfum and Fragrantica's per-fragrance entries agree wherever they state one, while Now Smell This, Fragrantica's own collection announcement and Selfridges describe the line as eau de parfum. \"Scentsorium\" is the collection name, not a fragrance — there is no single product by that name, and this record covers one of its six chapters, each of which has its own official product page, perfumer and note pyramid. Fragrantica's per-fragrance entry confirms the perfumer and the full note structure; the black rose and suede accord described in collection-level write-ups do not appear on either the house's page or that entry.",
+    "verified_on": "2026-09-21",
+    "source_grade": "Official house",
+    "media_rights": "No product image supplied.",
+    "editorial_context": "Scentsorium is a six-chapter collection of genderless parfums developed through Maison Margiela's Artisanal Atelier, each chapter built by the house around a fleeting emotional state and given its own product page, perfumer and note pyramid. This record covers Anguish and Awe, composed by Delphine Lebeau and classed by the house as an ambery floral, with top: bergamot essence; heart: geranium heart madagascar, rose heart absolute; base: virginia cedarwood essence, leather accord. The house states no release year anywhere on its product pages even though secondary sources place the launch in 2026, and it labels the line Parfum where several press write-ups call it eau de parfum.",
+    "context_source": "https://www.maisonmargiela-fragrances.us/fragrances/new-scentsorium-eau-de-parfum/scentsorium-anguish-and-awe-parfum/MM187.html"
+  },
+  {
+    "id": "scentsorium-tender-defiance",
+    "name": "Scentsorium Tender Defiance",
+    "house": "Maison Margiela",
+    "perfumer": "Dominique Ropion",
+    "year": null,
+    "concentration": "Parfum",
+    "summary": "One of the six chapters of Maison Margiela's Scentsorium collection, composed by Dominique Ropion. The house classes it as woody ambery and lists anise oil, fir balsam heart, liquorice accord among its notes.",
+    "community_rating": null,
+    "review_count": 0,
+    "notes": {
+      "top": [
+        "Anise Oil"
+      ],
+      "heart": [
+        "Fir Balsam Heart",
+        "Liquorice Accord"
+      ],
+      "base": [
+        "Ambery Accord"
+      ]
+    },
+    "source": "https://www.maisonmargiela-fragrances.us/fragrances/new-scentsorium-eau-de-parfum/scentsorium-tender-defiance-parfum/MM188.html",
+    "sources": [
+      {
+        "url": "https://www.maisonmargiela-fragrances.us/fragrances/new-scentsorium-eau-de-parfum/scentsorium-tender-defiance-parfum/MM188.html",
+        "label": "Official house — name, house, perfumer, concentration, notes"
+      },
+      {
+        "url": "https://www.maisonmargiela-fragrances.us/the-scentsorium-clp.html",
+        "label": "Official house — Scentsorium collection, six chapters"
+      },
+      {
+        "url": "https://nstperfume.com/2026/04/02/maison-margiela-scentsorium-collection-new-fragrances/",
+        "label": "Press (Now Smell This) — cross-check; dates the collection to April 2026 and calls it eau de parfum"
+      },
+      {
+        "url": "https://www.fragrantica.com/perfume/Maison-Martin-Margiela/Tender-Defiance-129376.html",
+        "label": "Community database (Fragrantica) — per-fragrance cross-check; perfumer, notes, concentration"
+      }
+    ],
+    "image_file": null,
+    "image_source": null,
+    "verification_note": "Release year is not stated on the checked official page and remains null; Fragrantica's per-fragrance entry and press coverage both place the launch in 2026. Concentration is disputed, but not as widely as collection-level coverage suggests: Maison Margiela labels these Parfum and Fragrantica's per-fragrance entries agree wherever they state one, while Now Smell This, Fragrantica's own collection announcement and Selfridges describe the line as eau de parfum. \"Scentsorium\" is the collection name, not a fragrance — there is no single product by that name, and this record covers one of its six chapters, each of which has its own official product page, perfumer and note pyramid. Fragrantica's per-fragrance entry confirms the perfumer, concentration and notes; the incense and smoke described in collection-level write-ups appear on neither the house's page nor that entry.",
+    "verified_on": "2026-09-21",
+    "source_grade": "Official house",
+    "media_rights": "No product image supplied.",
+    "editorial_context": "Scentsorium is a six-chapter collection of genderless parfums developed through Maison Margiela's Artisanal Atelier, each chapter built by the house around a fleeting emotional state and given its own product page, perfumer and note pyramid. This record covers Tender Defiance, composed by Dominique Ropion and classed by the house as a woody ambery, with top: anise oil; heart: fir balsam heart, liquorice accord; base: ambery accord. The house states no release year anywhere on its product pages even though secondary sources place the launch in 2026, and it labels the line Parfum where several press write-ups call it eau de parfum.",
+    "context_source": "https://www.maisonmargiela-fragrances.us/fragrances/new-scentsorium-eau-de-parfum/scentsorium-tender-defiance-parfum/MM188.html"
+  },
+  {
+    "id": "scentsorium-delight-in-despair",
+    "name": "Scentsorium Delight in Despair",
+    "house": "Maison Margiela",
+    "perfumer": "Nisrine Bouazzaoui Grillié",
+    "year": null,
+    "concentration": "Parfum",
+    "summary": "One of the six chapters of Maison Margiela's Scentsorium collection, composed by Nisrine Bouazzaoui Grillié. The house classes it as fougère musky and lists saffron milk accord, patchouli duo, cedarwood essence among its notes.",
+    "community_rating": null,
+    "review_count": 0,
+    "notes": {
+      "top": [
+        "Saffron milk accord"
+      ],
+      "heart": [
+        "Patchouli Duo",
+        "Cedarwood Essence",
+        "Iris Accord"
+      ],
+      "base": [
+        "Musks Overdose",
+        "Oud Accord"
+      ]
+    },
+    "source": "https://www.maisonmargiela-fragrances.us/fragrances/new-scentsorium-eau-de-parfum/scentsorium-delight-in-despair-parfum/MM189.html",
+    "sources": [
+      {
+        "url": "https://www.maisonmargiela-fragrances.us/fragrances/new-scentsorium-eau-de-parfum/scentsorium-delight-in-despair-parfum/MM189.html",
+        "label": "Official house — name, house, perfumer, concentration, notes"
+      },
+      {
+        "url": "https://www.maisonmargiela-fragrances.us/the-scentsorium-clp.html",
+        "label": "Official house — Scentsorium collection, six chapters"
+      },
+      {
+        "url": "https://nstperfume.com/2026/04/02/maison-margiela-scentsorium-collection-new-fragrances/",
+        "label": "Press (Now Smell This) — cross-check; dates the collection to April 2026 and calls it eau de parfum"
+      },
+      {
+        "url": "https://www.fragrantica.com/perfume/Maison-Martin-Margiela/Delight-in-Despair-129379.html",
+        "label": "Community database (Fragrantica) — per-fragrance cross-check; perfumer, notes, concentration"
+      }
+    ],
+    "image_file": null,
+    "image_source": null,
+    "verification_note": "Release year is not stated on the checked official page and remains null; Fragrantica's per-fragrance entry and press coverage both place the launch in 2026. Concentration is disputed, but not as widely as collection-level coverage suggests: Maison Margiela labels these Parfum and Fragrantica's per-fragrance entries agree wherever they state one, while Now Smell This, Fragrantica's own collection announcement and Selfridges describe the line as eau de parfum. \"Scentsorium\" is the collection name, not a fragrance — there is no single product by that name, and this record covers one of its six chapters, each of which has its own official product page, perfumer and note pyramid. Fragrantica's per-fragrance entry gives the perfumer's name in the same full form as the house and matches the notes; the cypriol named in collection-level write-ups appears in neither.",
+    "verified_on": "2026-09-21",
+    "source_grade": "Official house",
+    "media_rights": "No product image supplied.",
+    "editorial_context": "Scentsorium is a six-chapter collection of genderless parfums developed through Maison Margiela's Artisanal Atelier, each chapter built by the house around a fleeting emotional state and given its own product page, perfumer and note pyramid. This record covers Delight in Despair, composed by Nisrine Bouazzaoui Grillié and classed by the house as a fougère musky, with top: saffron milk accord; heart: patchouli duo, cedarwood essence, iris accord; base: musks overdose, oud accord. The house states no release year anywhere on its product pages even though secondary sources place the launch in 2026, and it labels the line Parfum where several press write-ups call it eau de parfum.",
+    "context_source": "https://www.maisonmargiela-fragrances.us/fragrances/new-scentsorium-eau-de-parfum/scentsorium-delight-in-despair-parfum/MM189.html"
+  },
+  {
+    "id": "scentsorium-fit-of-folly",
+    "name": "Scentsorium Fit of Folly",
+    "house": "Maison Margiela",
+    "perfumer": "Suzy Le Helley & Philippe Paparella",
+    "year": null,
+    "concentration": "Parfum",
+    "summary": "One of the six chapters of Maison Margiela's Scentsorium collection, composed by Suzy Le Helley & Philippe Paparella. The house classes it as fougère musky and lists calabrian bergamot heart essence, musks, sandalwood essence among its notes.",
+    "community_rating": null,
+    "review_count": 0,
+    "notes": {
+      "top": [
+        "Calabrian Bergamot Heart Essence"
+      ],
+      "heart": [
+        "Musks",
+        "Sandalwood Essence"
+      ],
+      "base": [
+        "Patchouli Essence",
+        "Ambery Wood Accord",
+        "Vetiver Heart"
+      ]
+    },
+    "source": "https://www.maisonmargiela-fragrances.us/fragrances/new-scentsorium-eau-de-parfum/scentsorium-fit-of-folly-parfum/MM190.html",
+    "sources": [
+      {
+        "url": "https://www.maisonmargiela-fragrances.us/fragrances/new-scentsorium-eau-de-parfum/scentsorium-fit-of-folly-parfum/MM190.html",
+        "label": "Official house — name, house, perfumer, concentration, notes"
+      },
+      {
+        "url": "https://www.maisonmargiela-fragrances.us/the-scentsorium-clp.html",
+        "label": "Official house — Scentsorium collection, six chapters"
+      },
+      {
+        "url": "https://nstperfume.com/2026/04/02/maison-margiela-scentsorium-collection-new-fragrances/",
+        "label": "Press (Now Smell This) — cross-check; dates the collection to April 2026 and calls it eau de parfum"
+      },
+      {
+        "url": "https://www.fragrantica.com/perfume/Maison-Martin-Margiela/Fit-of-Folly-129380.html",
+        "label": "Community database (Fragrantica) — per-fragrance cross-check; perfumer, notes, concentration"
+      }
+    ],
+    "image_file": null,
+    "image_source": null,
+    "verification_note": "Release year is not stated on the checked official page and remains null; Fragrantica's per-fragrance entry and press coverage both place the launch in 2026. Concentration is disputed, but not as widely as collection-level coverage suggests: Maison Margiela labels these Parfum and Fragrantica's per-fragrance entries agree wherever they state one, while Now Smell This, Fragrantica's own collection announcement and Selfridges describe the line as eau de parfum. \"Scentsorium\" is the collection name, not a fragrance — there is no single product by that name, and this record covers one of its six chapters, each of which has its own official product page, perfumer and note pyramid. Fragrantica's per-fragrance entry confirms the concentration and notes and gives the second perfumer's surname more fully as Philippe Paparella-Paris, and this is the only chapter whose official page states a strength figure, given as a 30% concentration.",
+    "verified_on": "2026-09-21",
+    "source_grade": "Official house",
+    "media_rights": "No product image supplied.",
+    "editorial_context": "Scentsorium is a six-chapter collection of genderless parfums developed through Maison Margiela's Artisanal Atelier, each chapter built by the house around a fleeting emotional state and given its own product page, perfumer and note pyramid. This record covers Fit of Folly, composed by Suzy Le Helley & Philippe Paparella and classed by the house as a fougère musky, with top: calabrian bergamot heart essence; heart: musks, sandalwood essence; base: patchouli essence, ambery wood accord, vetiver heart. The house states no release year anywhere on its product pages even though secondary sources place the launch in 2026, and it labels the line Parfum where several press write-ups call it eau de parfum.",
+    "context_source": "https://www.maisonmargiela-fragrances.us/fragrances/new-scentsorium-eau-de-parfum/scentsorium-fit-of-folly-parfum/MM190.html"
+  },
+  {
+    "id": "un-jardin-sous-la-mer",
+    "name": "Un Jardin sous la Mer",
+    "house": "Hermès",
+    "perfumer": "Christine Nagel",
+    "year": null,
+    "concentration": "Eau de Toilette",
+    "summary": "Hermès credits Christine Nagel with this eau de toilette and lists three main raw materials: tiare flower, tamanu nut and a mineral coral accord.",
+    "community_rating": null,
+    "review_count": 0,
+    "notes": {
+      "brand_highlights": [
+        "Tiare flower",
+        "Tamanu nut",
+        "Mineral coral accord"
+      ]
+    },
+    "source": "https://www.hermes.com/us/en/product/un-jardin-sous-la-mer-eau-de-toilette-V117484V0/",
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/product/un-jardin-sous-la-mer-eau-de-toilette-V117484V0/",
+        "label": "Official house — name, house, perfumer, concentration, raw materials"
+      },
+      {
+        "url": "https://www.fragrantica.com/perfume/Hermes/Un-Jardin-Sous-la-Mer-123604.html",
+        "label": "Community database (Fragrantica) — per-fragrance cross-check; perfumer, concentration, notes"
+      }
+    ],
+    "image_file": null,
+    "image_source": null,
+    "verification_note": "Release year is not stated on the checked official page and remains null; Fragrantica's per-fragrance entry gives 2026. Hermès publishes three main raw materials rather than a top-heart-base pyramid. The house describes the scent as floral and musky in prose, and Fragrantica lists musk as a note, but musk does not appear among the raw materials Hermès names, so it is not recorded here.",
+    "verified_on": "2026-09-22",
+    "source_grade": "Official house",
+    "media_rights": "No product image supplied.",
+    "editorial_context": "Hermès adds Un Jardin sous la Mer to its Jardins line and credits it to house perfumer Christine Nagel, framing it as an underwater garden rather than a terrestrial one. The house names three main raw materials, tiare flower, tamanu nut and a mineral coral accord, and classes the olfactory emotion as fresh and delicate, which is its standard format for the line rather than a full pyramid. Hermès calls the result floral and musky in its prose and Fragrantica lists musk outright, but musk is absent from the raw materials the house actually names, so this record leaves it out. No release year appears on the checked page.",
+    "context_source": "https://www.hermes.com/us/en/product/un-jardin-sous-la-mer-eau-de-toilette-V117484V0/"
+  },
+  {
+    "id": "musc-pallida-eau-de-parfum",
+    "name": "Musc Pallida Eau de Parfum",
+    "house": "Hermès",
+    "perfumer": "Christine Nagel",
+    "year": null,
+    "concentration": "Eau de Parfum",
+    "summary": "Christine Nagel's eau de parfum reading of Musc Pallida. Hermès names two main raw materials, powdery iris and a caressing musk.",
+    "community_rating": null,
+    "review_count": 0,
+    "notes": {
+      "brand_highlights": [
+        "Powdery iris",
+        "Caressing musk"
+      ]
+    },
+    "source": "https://www.hermes.com/us/en/product/musc-pallida-eau-de-parfum-V117337V0/",
+    "sources": [
+      {
+        "url": "https://www.hermes.com/us/en/product/musc-pallida-eau-de-parfum-V117337V0/",
+        "label": "Official house — name, house, perfumer, concentration, raw materials"
+      },
+      {
+        "url": "https://www.fragrantica.com/perfume/Hermes/Musc-Pallida-Eau-de-Parfum-123222.html",
+        "label": "Community database (Fragrantica) — per-fragrance cross-check; perfumer, concentration, notes"
+      },
+      {
+        "url": "https://www.hermes.com/us/en/product/musc-pallida-essence-de-parfum-V107115V0/",
+        "label": "Official house — the essence de parfum sharing the name; checked to confirm both are Hermessence"
+      }
+    ],
+    "image_file": null,
+    "image_source": null,
+    "verification_note": "Release year is not stated on the checked official page and remains null; Fragrantica's per-fragrance entry gives 2026. This record covers the Eau de Parfum only. Hermès sells a Musc Pallida essence de parfum under the same name, and both product pages carry the same Hermessence collection text, so the two are different concentrations within one collection rather than separate lines; neither page states how the compositions relate, and the essence's page credits no perfumer. Fragrantica lists aldehydes as a top note, which Hermès does not name among its raw materials, so aldehydes are not recorded here.",
+    "verified_on": "2026-09-22",
+    "source_grade": "Official house",
+    "media_rights": "No product image supplied.",
+    "editorial_context": "Hermès sells Musc Pallida in more than one concentration inside its Hermessence collection, and this record covers the eau de parfum rather than the essence de parfum that shares the name. Christine Nagel is credited on the house's page, which names only two main raw materials, a powdery iris and a caressing musk. The house never states how the two compositions relate, so this record does not treat either as a version of the other. No release year appears on the checked page.",
+    "context_source": "https://www.hermes.com/us/en/product/musc-pallida-eau-de-parfum-V117337V0/"
+  },
+  {
+    "id": "amouage-sequence",
+    "name": "Sequence",
+    "house": "Amouage",
+    "perfumer": "Julien Rasquinet",
+    "year": null,
+    "concentration": "Essence de Parfum",
+    "oil_concentration": "30% (brand stated)",
+    "summary": "Part of Amouage's Essences collection, composed by Julien Rasquinet. The house states a 30% oil concentration and lists lychee, raspberry, saffron among its notes.",
+    "community_rating": null,
+    "review_count": 0,
+    "notes": {
+      "top": [
+        "Lychee",
+        "Raspberry",
+        "Saffron"
+      ],
+      "heart": [
+        "Rose",
+        "Osmanthus",
+        "Tonka Bean"
+      ],
+      "base": [
+        "Oud",
+        "Leather",
+        "Ambery Woods"
+      ]
+    },
+    "source": "https://amouage.com/products/sequence",
+    "sources": [
+      {
+        "url": "https://amouage.com/products/sequence",
+        "label": "Official house — name, house, perfumer, concentration, notes"
+      },
+      {
+        "url": "https://amouage.com/pages/essences-the-second-trilogy",
+        "label": "Official house — Essences collection listing"
+      },
+      {
+        "url": "https://www.fragrantica.com/perfume/Amouage/Sequence-121884.html",
+        "label": "Community database (Fragrantica) — per-fragrance cross-check; perfumer, notes"
+      }
+    ],
+    "image_file": null,
+    "image_source": null,
+    "verification_note": "Release year is not stated on the checked official page and remains null; Fragrantica's per-fragrance entry gives 2026. Amouage's own page is internally inconsistent on this one, titling it Sequence Extrait de Parfum while stating the concentration as 30% Essence de Parfum; the house's concentration wording is recorded and the conflict left visible. Fragrantica classes it as an extrait, so it does not corroborate the house's wording either.",
+    "verified_on": "2026-09-22",
+    "source_grade": "Official house",
+    "media_rights": "No product image supplied.",
+    "editorial_context": "Amouage places Sequence in its Essences collection and credits Julien Rasquinet, stating a 30% oil concentration well above a conventional eau de parfum. The house publishes a full pyramid: top: lychee, raspberry, saffron; heart: rose, osmanthus, tonka bean; base: oud, leather, ambery woods. It also lists an Infusion Patina of sandalwood and oakwood, which it attributes to the ageing of the finished perfume rather than to the composition, so those two woods are not recorded among the notes.",
+    "context_source": "https://amouage.com/products/sequence"
+  },
+  {
+    "id": "amouage-remain",
+    "name": "Remain",
+    "house": "Amouage",
+    "perfumer": "Pierre Négrin",
+    "year": null,
+    "concentration": "Essence de Parfum",
+    "oil_concentration": "30% (brand stated)",
+    "summary": "Part of Amouage's Essences collection, composed by Pierre Négrin. The house states a 30% oil concentration and lists hojari frankincense, mandarin, pimento berry among its notes.",
+    "community_rating": null,
+    "review_count": 0,
+    "notes": {
+      "top": [
+        "Hojari Frankincense",
+        "Mandarin",
+        "Pimento Berry",
+        "Bergamot"
+      ],
+      "heart": [
+        "Madonna Lily",
+        "Ylang-ylang",
+        "Juniper",
+        "Jasmine"
+      ],
+      "base": [
+        "Ambergris",
+        "Guaiacwood",
+        "Patchouli",
+        "Vanilla",
+        "Tonka Bean"
+      ]
+    },
+    "source": "https://amouage.com/products/remain",
+    "sources": [
+      {
+        "url": "https://amouage.com/products/remain",
+        "label": "Official house — name, house, perfumer, concentration, notes"
+      },
+      {
+        "url": "https://amouage.com/pages/essences-the-second-trilogy",
+        "label": "Official house — Essences collection listing"
+      },
+      {
+        "url": "https://www.fragrantica.com/perfume/Amouage/Remain-121883.html",
+        "label": "Community database (Fragrantica) — per-fragrance cross-check; perfumer, notes"
+      }
+    ],
+    "image_file": null,
+    "image_source": null,
+    "verification_note": "Release year is not stated on the checked official page and remains null; Fragrantica's per-fragrance entry gives 2026. Fragrantica's per-fragrance entry matches the house's pyramid, shortening Madonna lily to lily, and spells the perfumer without the accent the house uses.",
+    "verified_on": "2026-09-22",
+    "source_grade": "Official house",
+    "media_rights": "No product image supplied.",
+    "editorial_context": "Amouage places Remain in its Essences collection and credits Pierre Négrin, stating a 30% oil concentration well above a conventional eau de parfum. The house publishes a full pyramid: top: hojari frankincense, mandarin, pimento berry, bergamot; heart: madonna lily, ylang-ylang, juniper, jasmine; base: ambergris, guaiacwood, patchouli, vanilla, tonka bean. It also lists an Infusion Patina of sandalwood and oakwood, which it attributes to the ageing of the finished perfume rather than to the composition, so those two woods are not recorded among the notes.",
+    "context_source": "https://amouage.com/products/remain"
+  },
+  {
+    "id": "amouage-line-618",
+    "name": "Line 618",
+    "house": "Amouage",
+    "perfumer": "Nathalie Lorson",
+    "year": null,
+    "concentration": "Essence de Parfum",
+    "oil_concentration": "30% (brand stated)",
+    "summary": "Part of Amouage's Essences collection, composed by Nathalie Lorson. The house states a 30% oil concentration and lists hojari frankincense, black pepper, pineapple among its notes.",
+    "community_rating": null,
+    "review_count": 0,
+    "notes": {
+      "top": [
+        "Hojari Frankincense",
+        "Black Pepper",
+        "Pineapple",
+        "Peach",
+        "Plum"
+      ],
+      "heart": [
+        "Pine",
+        "Heliotrope",
+        "Coconut Milk"
+      ],
+      "base": [
+        "Patchouli",
+        "Sandalwood",
+        "Guaiacwood",
+        "Leather"
+      ]
+    },
+    "source": "https://amouage.com/products/line-618",
+    "sources": [
+      {
+        "url": "https://amouage.com/products/line-618",
+        "label": "Official house — name, house, perfumer, concentration, notes"
+      },
+      {
+        "url": "https://amouage.com/pages/essences-the-second-trilogy",
+        "label": "Official house — Essences collection listing"
+      },
+      {
+        "url": "https://www.fragrantica.com/perfume/Amouage/Line-618-121882.html",
+        "label": "Community database (Fragrantica) — per-fragrance cross-check; perfumer, notes"
+      }
+    ],
+    "image_file": null,
+    "image_source": null,
+    "verification_note": "Release year is not stated on the checked official page and remains null; Fragrantica's per-fragrance entry gives 2026. Retailers including Nordstrom and ZGO Perfumery list this as an eau de parfum, and Fragrantica classes it the same way, where the house states Essence de Parfum at 30%.",
+    "verified_on": "2026-09-22",
+    "source_grade": "Official house",
+    "media_rights": "No product image supplied.",
+    "editorial_context": "Amouage places Line 618 in its Essences collection and credits Nathalie Lorson, stating a 30% oil concentration well above a conventional eau de parfum. The house publishes a full pyramid: top: hojari frankincense, black pepper, pineapple, peach, plum; heart: pine, heliotrope, coconut milk; base: patchouli, sandalwood, guaiacwood, leather. It also lists an Infusion Patina of sandalwood and oakwood, which it attributes to the ageing of the finished perfume rather than to the composition, so those two woods are not recorded among the notes.",
+    "context_source": "https://amouage.com/products/line-618"
+  },
+  {
+    "id": "amouage-elsewhere",
+    "name": "Elsewhere",
+    "house": "Amouage",
+    "perfumer": "Pierre Négrin",
+    "year": null,
+    "concentration": "Essence de Parfum",
+    "oil_concentration": "30% (brand stated)",
+    "summary": "Part of Amouage's Essences collection, composed by Pierre Négrin. The house states a 30% oil concentration and lists honey, tangerine, grapefruit among its notes.",
+    "community_rating": null,
+    "review_count": 0,
+    "notes": {
+      "top": [
+        "Honey",
+        "Tangerine",
+        "Grapefruit",
+        "Mango",
+        "Pomegranate",
+        "Apricot",
+        "Ginger",
+        "Cardamom",
+        "Pink Pepper"
+      ],
+      "heart": [
+        "Black Tea",
+        "Cappuccino",
+        "Davana"
+      ],
+      "base": [
+        "Tonka Bean",
+        "Vanilla",
+        "Cedarwood",
+        "Labdanum",
+        "Cypriol",
+        "Vetiver",
+        "Patchouli"
+      ]
+    },
+    "source": "https://amouage.com/products/elsewhere",
+    "sources": [
+      {
+        "url": "https://amouage.com/products/elsewhere",
+        "label": "Official house — name, house, perfumer, concentration, notes"
+      },
+      {
+        "url": "https://amouage.com/pages/essences-the-second-trilogy",
+        "label": "Official house — Essences collection listing"
+      },
+      {
+        "url": "https://www.fragrantica.com/perfume/Amouage/Elsewhere-136307.html",
+        "label": "Community database (Fragrantica) — per-fragrance cross-check; perfumer, notes"
+      }
+    ],
+    "image_file": null,
+    "image_source": null,
+    "verification_note": "Release year is not stated on the checked official page and remains null; Fragrantica's per-fragrance entry gives 2026. Amouage marks Elsewhere as new on its Essences collection page alongside Line 618, Remain and Sequence, though that page's introductory text describes only three new expressions. Fragrantica spells the perfumer without the accent the house uses.",
+    "verified_on": "2026-09-22",
+    "source_grade": "Official house",
+    "media_rights": "No product image supplied.",
+    "editorial_context": "Amouage places Elsewhere in its Essences collection and credits Pierre Négrin, stating a 30% oil concentration well above a conventional eau de parfum. The house publishes a full pyramid: top: honey, tangerine, grapefruit, mango, pomegranate, apricot, ginger, cardamom, pink pepper; heart: black tea, cappuccino, davana; base: tonka bean, vanilla, cedarwood, labdanum, cypriol, vetiver, patchouli. It also lists an Infusion Patina of sandalwood and oakwood, which it attributes to the ageing of the finished perfume rather than to the composition, so those two woods are not recorded among the notes.",
+    "context_source": "https://amouage.com/products/elsewhere"
   }
 ]
